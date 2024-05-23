@@ -38,7 +38,7 @@ function Footer() {
           <p className="order-2 md:order-1 mt-8 md:mt-0">
             &copy; My <span> Eats </span>, 2024. Designed by
             <a
-              href="https://github.com/StephWalt04"
+              href="https://github.com/Stephwalt04"
               target="_blank rel='noopener noreferrer'"
               className="text-orange-500 ml-2"
             >
